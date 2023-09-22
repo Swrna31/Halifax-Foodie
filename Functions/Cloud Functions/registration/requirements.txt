@@ -1,0 +1,6 @@
+# Function dependencies, for example:
+# package>=version
+pycognito==0.1.2
+boto3==1.26.13
+google-cloud-firestore==2.7.2
+requests==2.27.1

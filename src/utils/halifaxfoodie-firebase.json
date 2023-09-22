@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "halifaxfoodie-2dc26",
+  "private_key_id": "f3d76f37cecdd73ca5b1b1e889052db51925af4c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8kEnfz48hNxgs\nV1NK/ZjlCA9JGj2EYMNT+nDaLuzoo2qVOjYbKpfjCko+l+4D77yPCkzRbf1MPv3V\n3AA0ROSHM1HogkROAZDTA7etp1/7xwjbsxfr9MecpZ9Xi0IWnoUJ88+jagk9oTmQ\nlQf8vzUleF25g8cO1jR2iAMr0jqlY6t+omAfi2MSlPndBvODq1nIRM0Ob7hbzC+n\nvW6M/yhr+K1FVcl34pDXLgJyCJwIAPxHrH0QVgM2qVfpzIfICru0N8xRXB8m/2xB\n/4D6xMB3lRcQus0teZ0ylFnZQJULWj1n4tYGLqwayatHY4JIo5sOWjU13mJ3jzpW\n1xpeqN/vAgMBAAECggEAVhvuIG7AhgKK33ThbJVyhOSxVkjNXu5xRKBReNGFDpfR\nzGPQ4YcJ5XyFeyAWaWXJTej+O4Vm7rK1aDwXO8daNQOSnAMg/h5o7HP+JScSBgBW\nYz3d5rrZjQd1RJ0riPjK+EiGwbFilupRR11HUHxg4MOeyWEMPhJD0v05tYFDltKs\nUcsxPsV0szZ+jNZpYHI8K0Z9LIK+u+BSDma52wnMmV1mgJlGhnpeiWF9BumSsgTi\nSZsbDhiYtxo1MuoD88nW4/rZc39NgSeGfRP8aYltuXc7PSO6EN6Qzp4saWoIKHll\nAsW20mkXatCelCzvTL39NrB/6EZkRF8+glrA3AqPwQKBgQDmWldlmA2cjaxXtH70\nMUFMkTXs4uKigHxRJJ3axFLkzay8/mpK16JzwP7uk8Pi54EuAlxwRan0F1iw/B0C\nbOv+WshW5djSoIUX1PHqhWACzhucoaoFfPA7AsX12aX7bX99F3ntsMoHrGH2Ihe2\nYGPTw6pD8bU/751so3nBUoKanQKBgQDRjtgOoZMYoWrGH93TMZrfLq/SQMPwb9Cs\ngAmKU0hbrdA3dlgrnxRX57gXAzutMHJ+SbbuH9ZcCo4z/Tnl3L9BcIzWZpRUZBUf\noFrm4tU/Ydp5GKVrMzv5TmdOydSds3cjKT53fW0LLlp9D0y5jat41HVPJZYsxaOh\newkDc2Ho+wKBgQCupWANzrLDN0arWFXInm97tbzE1WAvBGs8uh5UdvTCNI363ImK\nJOMuD+04xR+HMS5ny7J6DNdGEU1VIlB8PkjOl9W8zJcPWlSONQ0VWfnpJosYvhlB\n/+/DTd74/wMxFVvLY7k11QvXtYKwMjj4NSx6qaa1zNQ2nV0luOve/se2oQKBgQCj\nq39QHh33FMuCJo1oT8v4GEy2WGMwvQQsVmwdH2LaR+ziBIpkt4B6D78WKi5H3Bjw\nTb6USUVw6cWbEWJRB5JRGAjHw6KCLxDYfLPCtNN9B35NKlS4X3GuC/Bf9v8alHqu\neZ4SUWIDY5bFKlfwbJfKbZWZ1W9vVIWyr5egnFOSVQKBgEiv/J902oEokvjnSat0\ng/CLaUzGVREhu1vQ7pIWoN/nkWiWdhPGQF9VMOWvOIbn6cYE+rMZ7aHq/tBgIHqH\nMRIFkx/oZNpK+9qpfb8Y03KBFKmB8/UoffDzeTvxLCtkmd9axVveKGsBgpybpgAw\nCyJN4O4Uzb8ETeqW9KqGLxM5\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-seiss@halifaxfoodie-2dc26.iam.gserviceaccount.com",
+  "client_id": "118071418532285352783",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-seiss%40halifaxfoodie-2dc26.iam.gserviceaccount.com"
+}
